@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{7222D67A-E9F4-48AD-9630-80BCB063D4E4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul8_1302223075/Program.cs">
+    <Files>
+      <File FileName="modul8_1302223075/Program.cs" Line="1" Column="1" />
+      <File FileName="modul8_1302223075/.gitignore" Line="398" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul8_1302223075" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.modul8__1302223075 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
