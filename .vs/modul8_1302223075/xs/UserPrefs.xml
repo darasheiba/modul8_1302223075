@@ -1,14 +1,20 @@
 ﻿<Properties StartupConfiguration="{7222D67A-E9F4-48AD-9630-80BCB063D4E4}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="modul8_1302223075/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul8_1302223075/BankTransferConfig.cs">
     <Files>
-      <File FileName="modul8_1302223075/Program.cs" Line="1" Column="1" />
+      <File FileName="modul8_1302223075/Program.cs" Line="21" Column="1" />
       <File FileName="modul8_1302223075/.gitignore" Line="398" Column="10" />
+      <File FileName="modul8_1302223075/BankTransferConfig.cs" Line="36" Column="23" />
+      <File FileName="modul8_1302223075/bank_transfer_config.json" Line="11" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="modul8_1302223075" selected="True" />
+          <Node name="modul8_1302223075">
+            <Node name="modul8_1302223075">
+              <Node name="BankTransferConfig.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -17,6 +23,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.modul8__1302223075 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.modul8__1302223075 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
